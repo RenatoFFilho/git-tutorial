@@ -1,2 +1,3 @@
-printf("hello world")
+x = "Hello World"
+printf(x)
 input()
